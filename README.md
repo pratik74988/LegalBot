@@ -94,7 +94,7 @@ streamlit run app.py
 
 LegalBot is also deployed on Streamlit Cloud. You can access the chatbot directly via the following link:
 
-[https://legal-chatbot-llm.streamlit.app/](https://legal-chatbot-llm.streamlit.app/)
+[SooWILL BE AVAILABLR)
 
 
 
