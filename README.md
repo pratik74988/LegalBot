@@ -1,7 +1,7 @@
 # LegalBot: LLM-based Legal ChatBot
 ## 🚧 app’s down rn cuz LangChain went rogue and renamed half their functions (fck them)
 
-![Python 3.12](https://img.shields.io/badge/Python-3.10-brightgreen.svg) [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)  
+![Python 3.12](https://img.shields.io/badge/Python-3.10-brightgreen.svg) [![langchain](https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green)](#)  
 
 LegalBot is a Large Language Model (LLM) based chatbot designed to provide legal information. The chatbot utilizes RAG architecture, advanced language models and embeddings to retrieve and generate contextually relevant answers from a provided legal document corpus. This project specifically focuses on the Indian Penal Code and other related legal documents.
 
